@@ -19,7 +19,7 @@ Hacking in itself can be a broad subject with sub-subjects including:
 
 
 | Types of hackers  | Description   |
-| -------------     |:-------------:|ss
+| -------------     |:-------------:|
 | White Hat Hacker  | A white hat hacker is can also defined as an ethical hacker. This type of hacker would normally be paid by an employer and have authorized access to a system to search for vulnerabilities. This can be also known as a  penetration Testing. | 
 | Grey Hat Hacker   | All areas in life have a grey area as well, this is also right for hacking as well. A grey hat hacker could be someone that access a system to find vulnerabilities to report to the owner of the system for some compensation. If the owner refused to pay, then the hacker could upload the vulnerability online for a zero-day exploit. The grey hat hacker intention was to do good but resulted in malicious outcome.  |
 | Black Hat Hacker  | A black hat hacker falls on the other end of the scale to a white hat hacker. This hacker relies on knowledge to break into systems and computers to gain a personal or financial gain. Theses hackers could be new to the hacking community and not understand the implications of breaking into unauthorized systems or criminal masterminds or even state sponsored hacking teams.   |
