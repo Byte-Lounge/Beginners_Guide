@@ -7,7 +7,7 @@ This repository is for  people who meet these requirements for these below:
 
 ## What is Hacking
 The term 'Hacking' is the gaining of the unathrorized usage of a system or computer to gain data.  
-This data could be files, documents, videos, pictures or information.
+This data could be files, documents, videos, pictures or information.  
 Regarding hacking, they is three types within the community.  
 
 | Types of hackers  | Description   |
