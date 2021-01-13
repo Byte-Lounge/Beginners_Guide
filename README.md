@@ -1,8 +1,17 @@
-Inline-style: 
-![Image of Yaktocat](Beginners_Guide\Images\BYTE_LOUNGE_BANNER.png)
+![Banner](BYTE_LOUNGE_BANNER.png)
+
+Before continuing:
+
+* This guide is for ethical hackers only and will not dip into any black hat subjects.
+* Becoming an ethical hacker/ Penetration tester takes a lot of dedication.
+* Only practice your hacking skills on target that you have authorization for such as [CTFtime](https://ctftime.org/).
+* Please make sure that you have 
+
+#   Table of Contents
 
 
-# A Hackers Guide 
+# A Hackers Guide
+
 This repository is for  people who meet these requirements for these below:
 
 * Absolute beginners to hacking
@@ -44,21 +53,30 @@ Theses are the top topics in order of priority to learn and revise before gettin
 * Doing basic troubleshooting and how to process it.  
 * Fixing computers and learning the internal hardware.  
 * Understanding basic security within computing.  
+* Mastering Virtualization and the settings.
 
 Online resources for these subjects are:
-
-
 
 ### Networking Knowledge
 * What is the internet and how does it work?
 * Learn about internet protocols i.e TCP/UDP.
 * Learn about logical port.
-What is the internet, how it works basically, and how to stay safe while using it. How to spot obvious scams.
+
+Online resources for these subjects are:
 
 ### Linux Skills
+* Linux commands and text editors i.e VIM
+* Understanding packages and user managements
+* Getting to grips with processes and filesystem.
+
+Online resources for these subjects are:
+
 
 ### Coding Skills
-
+*
+*
+*
+Online resources for these subjects are:
 
 
 DISCLAIMER:  *They is no ONE or BEST method of getting into hacking but this is the my opinion on a good path that any beginner could follow.*
