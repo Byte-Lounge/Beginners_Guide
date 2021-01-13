@@ -9,8 +9,8 @@
 
 #   Table of Contents
 * [A Hackers Guide](#A-Hackers-Guide)
-    * [What is Hacking?](What-is-Hacking?)
-    * [Three Main Types of Hackers](Three-Main-Types-of-Hackers:)
+    * [What is Hacking?](#What-is-Hacking?)
+    * [Three Main Types of Hackers](#Three-Main-Types-of-Hackers:)
 
 # A Hackers Guide
 
