@@ -11,6 +11,12 @@
 * [A Hackers Guide](#A-Hackers-Guide)
     * [What is Hacking?](#What-is-Hacking-?)
     * [Three Main Types of Hackers](#Three-Main-Types-of-Hackers)
+* [A Beginners Path](#A-Beginners-Path)
+    * [Basic IT Knowledge](#Basic-IT-Knowledge)
+    * [Networking Knowledge](#Networking-Knowledge)
+    * [Linux Skills](#Linux-Skills)
+    * [Coding Skills](#Coding-Skills)
+* [Disclaimer](#Disclaimer)
 
 # A Hackers Guide
 
@@ -81,4 +87,5 @@ Online resources for these subjects are:
 Online resources for these subjects are:
 
 
-DISCLAIMER:  *They is no ONE or BEST method of getting into hacking but this is the my opinion on a good path that any beginner could follow.*
+###DISCLAIMER:  
+*They is no ONE or BEST method of getting into hacking but this is the my opinion on a good path that any beginner could follow.*
