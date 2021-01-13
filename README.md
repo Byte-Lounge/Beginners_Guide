@@ -1,6 +1,6 @@
 ![Banner](BYTE_LOUNGE_BANNER.png)
 
-###**Before continuing:**
+###Before continuing:
 
 * This guide is for ethical hackers only and will not dip into any black hat subjects.
 * Becoming an ethical hacker/ Penetration tester takes a lot of dedication.
