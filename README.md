@@ -1,6 +1,6 @@
 ![Banner](BYTE_LOUNGE_BANNER.png)
 
-Before continuing:
+**Before continuing:**
 
 * This guide is for ethical hackers only and will not dip into any black hat subjects.
 * Becoming an ethical hacker/ Penetration tester takes a lot of dedication.
@@ -30,7 +30,7 @@ This data could be files, documents, videos, pictures or information. Hacking in
 * Binary Exploitation
 * And more!
 
-###Three Main Types of Hackers:
+### Three Main Types of Hackers:
 | Types of hackers  | Description   |
 | -------------     |:-------------:|
 | **White Hat Hacker**  | A white hat hacker is can also defined as an ethical hacker. This type of hacker would normally be paid by an employer and have authorized access to a system to search for vulnerabilities. This can be also known as a  penetration Testing. | 
