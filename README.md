@@ -1,3 +1,7 @@
+Inline-style: 
+![Image of Yaktocat](Beginners_Guide\Images\BYTE_LOUNGE_BANNER.png)
+
+
 # A Hackers Guide 
 This repository is for  people who meet these requirements for these below:
 
@@ -41,14 +45,20 @@ Theses are the top topics in order of priority to learn and revise before gettin
 * Fixing computers and learning the internal hardware.  
 * Understanding basic security within computing.  
 
-Online course I would recommend as well:
+Online resources for these subjects are:
 
 
 
 ### Networking Knowledge
+* What is the internet and how does it work?
+* Learn about internet protocols i.e TCP/UDP.
+* Learn about logical port.
 What is the internet, how it works basically, and how to stay safe while using it. How to spot obvious scams.
 
 ### Linux Skills
+
 ### Coding Skills
+
+
 
 DISCLAIMER:  *They is no ONE or BEST method of getting into hacking but this is the my opinion on a good path that any beginner could follow.*
