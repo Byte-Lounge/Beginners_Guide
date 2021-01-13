@@ -5,10 +5,12 @@
 * This guide is for ethical hackers only and will not dip into any black hat subjects.
 * Becoming an ethical hacker/ Penetration tester takes a lot of dedication.
 * Only practice your hacking skills on target that you have authorization for such as [CTFtime](https://ctftime.org/).
-* Please make sure that you have 
+* Please make sure that you have verify any code that you have downloaded before you use it.
 
 #   Table of Contents
-
+* [A Hackers Guide](#A-Hackers-Guide)
+    * [What is Hacking?](What-is-Hacking?)
+    * [Three Main Types of Hackers](Three-Main-Types-of-Hackers:)
 
 # A Hackers Guide
 
