@@ -8,7 +8,7 @@
 * Becoming an ethical hacker/ Penetration tester takes a lot of dedication.
 * Only practice your hacking skills on target that you have authorization for such as [CTFtime](https://ctftime.org/).
 * Please make sure that you have verify any code that you have downloaded before you use it.
----
+
 #   Table of Contents
 * [A Hackers Guide](#A-Hackers-Guide)
     * [What is Hacking?](#What-is-Hacking-?)
@@ -21,7 +21,6 @@
 * [Licence](#Licence)
 * [Disclaimer](#Disclaimer)
 
----
 
 # A Hackers Guide
 
@@ -50,7 +49,6 @@ This data could be files, documents, videos, pictures or information. Hacking in
 | **Grey Hat Hacker**   | All areas in life have a grey area as well, this is also right for hacking as well. A grey hat hacker could be someone that access a system to find vulnerabilities to report to the owner of the system for some compensation. If the owner refused to pay, then the hacker could upload the vulnerability online for a zero-day exploit. The grey hat hacker intention was to do good but resulted in malicious outcome.  |
 | **Black Hat Hacker**  | A black hat hacker falls on the other end of the scale to a white hat hacker. This hacker relies on knowledge to break into systems and computers to gain a personal or financial gain. Theses hackers could be new to the hacking community and not understand the implications of breaking into unauthorized systems or criminal masterminds or even state sponsored hacking teams.   |
 
----
 
 ## A Beginners Path
 The first step towards getting into the hacking field is to take a step back and evaluate if this truly what you want.  
@@ -93,7 +91,6 @@ Online resources for these subjects are:
 
 Online resources for these subjects are:
 
----
 
 ### Licence:
 
