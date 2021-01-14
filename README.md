@@ -61,6 +61,8 @@ Theses are the top topics in order of priority to learn and revise before gettin
 3. Linux Skills
 4. Coding Skills
 
+---
+
 ### Basic IT Knowledge
 * Doing basic troubleshooting and how to process it.  
 * Fixing computers and learning the internal hardware.  
@@ -68,6 +70,8 @@ Theses are the top topics in order of priority to learn and revise before gettin
 * Mastering Virtualization and the settings.
 
 Online resources for these subjects are:
+* [Udemy - CompTIA A+ Course](https://www.udemy.com/course/new-comptia-a-2019-certification-1001-the-total-course/)
+* [Book - CompTIA A+ Book](https://www.amazon.co.uk/CompTIA-Certification-Guide-220-1001-220-1002/dp/1260454037)
 
 ---
 
@@ -77,6 +81,10 @@ Online resources for these subjects are:
 * Learn about logical port.
 
 Online resources for these subjects are:
+* [Book - Microsoft Windows Networking Essentials](https://www.amazon.co.uk/Microsoft-Windows-Networking-Essentials-Darril/dp/1118016858)
+* [Tool - Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+* [Youtube - Introduction to Networking](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
+* [Udemy - Complete Networking Fundamentals](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/)
 
 ---
 
@@ -86,6 +94,10 @@ Online resources for these subjects are:
 * Getting to grips with processes and filesystem.
 
 Online resources for these subjects are:
+* [Website - OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
+* [Website - TryHackMe Linux Room](https://tryhackme.com/room/linux1)
+* [Book - The Linux Command Line](https://www.amazon.co.uk/Linux-Command-Line-2nd/dp/1593279523/ref=sr_1_1?dchild=1&keywords=linux+commands&qid=1610666871&s=books&sr=1-1)
+* [Udemy - Linux Mastery](https://www.udemy.com/course/linux-mastery/)
 
 ---
 
