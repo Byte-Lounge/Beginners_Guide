@@ -69,12 +69,16 @@ Theses are the top topics in order of priority to learn and revise before gettin
 
 Online resources for these subjects are:
 
+---
+
 ### Networking Knowledge
 * What is the internet and how does it work?
 * Learn about internet protocols i.e TCP/UDP.
 * Learn about logical port.
 
 Online resources for these subjects are:
+
+---
 
 ### Linux Skills
 * Linux commands and text editors i.e VIM
@@ -83,6 +87,7 @@ Online resources for these subjects are:
 
 Online resources for these subjects are:
 
+---
 
 ### Coding Skills
 * THe ability to read code and understand the output.
@@ -90,6 +95,8 @@ Online resources for these subjects are:
 * Gives a new perspective to problem solving.
 
 Online resources for these subjects are:
+
+---
 
 
 ### Licence:
