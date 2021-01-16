@@ -18,7 +18,7 @@
     * [Networking Knowledge](#Networking-Knowledge)
     * [Linux Skills](#Linux-Skills)
     * [Coding Skills](#Coding-Skills)
-* [Licence](#Licence)
+* [License](#Licence)
 * [Disclaimer](#Disclaimer)
 
 
@@ -98,6 +98,7 @@ Online resources for these subjects are:
 * [Website - TryHackMe Linux Room](https://tryhackme.com/room/linux1)
 * [Book - The Linux Command Line](https://www.amazon.co.uk/Linux-Command-Line-2nd/dp/1593279523/ref=sr_1_1?dchild=1&keywords=linux+commands&qid=1610666871&s=books&sr=1-1)
 * [Udemy - Linux Mastery](https://www.udemy.com/course/linux-mastery/)
+* [Guide to Linux Terminal](https://www.youtube.com/watch?v=s3ii48qYBxA)
 
 ---
 
@@ -111,7 +112,8 @@ Online resources for these subjects are:
 ---
 
 
-### Licence:
+### License:
+[MIT License](LICENSE.md)
 
 ### DISCLAIMER:  
 *They is no ONE or BEST method of getting into hacking but this is the my opinion on a good path that any beginner could follow.*
